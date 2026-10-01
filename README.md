@@ -1,2 +1,2 @@
 # Tap-to-pay
-use nfc tag to pay (mesa)
+use nfc tag to pay (mpesa)
